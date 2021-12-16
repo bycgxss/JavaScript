@@ -5,3 +5,4 @@
 - [深浅拷贝](https://github.com/bycgxss/JavaScript/blob/master/deepAndShallowCopy)
 - [array](https://github.com/bycgxss/JavaScript/blob/master/array)
 - [new](https://github.com/bycgxss/JavaScript/blob/master/new/index.js)
+- [call-apply-bind](https://github.com/bycgxss/JavaScript/blob/master/call-apply-bind)

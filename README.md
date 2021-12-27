@@ -6,3 +6,4 @@
 - [array](https://github.com/bycgxss/JavaScript/tree/master/array)
 - [new](https://github.com/bycgxss/JavaScript/blob/master/new/index.js)
 - [call-apply-bind](https://github.com/bycgxss/JavaScript/tree/master/apply-call-bind)
+- [vue-simple-router](https://github.com/bycgxss/JavaScript/blob/master/vue-simple-router/index.js)
